@@ -1,0 +1,12 @@
+PyMuPDF
+python-docx
+pdfplumber
+pdf2docx
+pytesseract
+opencv-python-headless
+numpy
+pandas
+streamlit
+Pillow
+typing-extensions
+pathlib2
